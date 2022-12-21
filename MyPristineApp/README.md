@@ -19,4 +19,4 @@ Run `src/app.py` and navigate to http://127.0.0.1:8050/ in your browser.
 4. `pip3 install dash-daq`
 5. `pip3 install natsort`
  
-![image](https://user-images.githubusercontent.com/91855302/209008228-01cb54d0-d1f3-47f6-b4b6-ff4efa31b83b.png)
+![image](https://user-images.githubusercontent.com/91855302/209008402-a9ff7dd0-7dea-4dca-9471-ca2d013a2a1c.png)
