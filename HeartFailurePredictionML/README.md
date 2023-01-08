@@ -1,5 +1,8 @@
 # Heart Failure Prediction ML
 
+<img width="1188" alt="Screen Shot 2023-01-08 at 1 34 26 AM" src="https://user-images.githubusercontent.com/91855302/211185757-c3b9b50f-4ddd-4162-9251-ea1895d310b8.png">
+
+
 ## About this dataset
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worlwide.
 Heart failure is a common event caused by CVDs and this dataset contains 12 features that can be used to predict mortality by heart failure.
